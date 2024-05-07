@@ -86,7 +86,7 @@ if selected == 'Home Page':
     st.markdown("<p style='font-size: 18px;'>Welcome to MEDCHECK, your personalized health companion. Utilizing advanced machine learning algorithms, MEDCHECK empowers you to predict multiple diseases with accuracy. Take control of your health today!</p>", unsafe_allow_html=True)
 
     # Add a GIF stored locally to the page
-    st.image("home.gif")
+    st.image("MedCheck/home.gif")
     
 
 # Diabetes Prediction Page
